@@ -17,12 +17,12 @@ A comprehensive tracking matrix mapping every module and core cloud architectura
 | **05. Subnets, Route Tables & Cloud Gateways** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **06. DNS, Route 53 & Service Discovery** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **07. Load Balancing (ALB/NLB vs OCI LB/NLB)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
-| **08. Compute & VMs (EC2 vs OCI Compute Shapes)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **09. Containers (ECS/ECR vs Container Instances)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **10. Kubernetes (EKS vs OCI OKE)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **11. Serverless (Lambda vs OCI Functions)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **12. Object Storage (S3 vs OCI Object Storage)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **13. Block & File Storage (EBS/EFS vs BV/FSS)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **08. Compute & VMs (EC2 vs OCI Compute Shapes)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **09. Containers (ECS/ECR vs Container Instances)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **10. Kubernetes (EKS vs OCI OKE)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **11. Serverless (Lambda vs OCI Functions)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **12. Object Storage (S3 vs OCI Object Storage)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **13. Block & File Storage (EBS/EFS vs BV/FSS)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **14. Managed SQL (RDS/Aurora vs Base/Autonomous)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **15. NoSQL & Distributed Data (DynamoDB vs NoSQL)**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **16. Caching (ElastiCache vs OCI Cache Redis)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

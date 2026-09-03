@@ -8,8 +8,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: Phase 2 — Modules 4–7 (`feat: add cloud networking`)
-- **Last commit hash/message**: a076925 (`feat: add cloud networking`)
+- **Last completed phase**: Phase 3 — Modules 8–13 (`feat: add cloud compute and storage`)
+- **Last commit hash/message**: Pending commit (`feat: add cloud compute and storage`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
@@ -18,10 +18,16 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - Module 05: Subnets, Routing & Cloud Gateways (3 lessons + README)
   - Module 06: DNS & Service Discovery (3 lessons + README)
   - Module 07: Load Balancing & Traffic Ingress (3 lessons + README)
+  - Module 08: Compute & Virtual Machines (3 lessons + README)
+  - Module 09: Containers (3 lessons + README)
+  - Module 10: Kubernetes (Cloud-Managed Lens: EKS vs OKE) (3 lessons + README)
+  - Module 11: Serverless (AWS Lambda vs OCI Functions) (3 lessons + README)
+  - Module 12: Object Storage (S3 vs OCI Object Storage) (3 lessons + README)
+  - Module 13: Block & File Storage (EBS/EFS vs BV/FSS) (3 lessons + README)
 - **Modules in progress**: none
 - **Module 29 sub-phase reached**: none
 - **Known gaps / deferred items**: none
-- **Next action**: Phase 3 — Modules 8–13 (`feat: add cloud compute and storage`)
+- **Next action**: Phase 4 — Modules 14–17 (`feat: add cloud data and messaging`)
 
 ---
 
@@ -29,8 +35,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 | Dimension | Completed | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Numbered Modules (01–30)** | 7 | 30 | Modules 01–07 Complete |
-| **AWS & OCI Bilingual Coverage** | 7 | 30 Modules | Modules 01–07 Bilingual Complete |
+| **Numbered Modules (01–30)** | 13 | 30 | Modules 01–13 Complete |
+| **AWS & OCI Bilingual Coverage** | 13 | 30 Modules | Modules 01–13 Bilingual Complete |
 | **Module 29 Interview Questions** | 0 | 500 Questions | Pending Phase 9 (Sub-phases 29.1–29.5) |
 | **Production Runbooks** | 0 | 16 Scenarios | Initialized in `PRODUCTION_RUNBOOKS.md` |
 | **Hands-On Labs** | 0 | 10 Labs | Cataloged in `LABS.md` |
@@ -50,13 +56,13 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - [x] 05: Subnets, Routing and Gateways
   - [x] 06: DNS and Service Discovery
   - [x] 07: Load Balancing
-- [ ] **Phase 3**: Modules 08–13 (`feat: add cloud compute and storage`)
-  - 08: Compute and Virtual Machines
-  - 09: Containers
-  - 10: Kubernetes (Cloud-Managed Lens: EKS vs OKE)
-  - 11: Serverless (Lambda vs Functions)
-  - 12: Object Storage (S3 vs OCI Object Storage)
-  - 13: Block and File Storage (EBS/EFS vs Block Volume/File Storage)
+- [x] **Phase 3**: Modules 08–13 (`feat: add cloud compute and storage`)
+  - [x] 08: Compute and Virtual Machines
+  - [x] 09: Containers
+  - [x] 10: Kubernetes (Cloud-Managed Lens: EKS vs OKE)
+  - [x] 11: Serverless (Lambda vs Functions)
+  - [x] 12: Object Storage (S3 vs OCI Object Storage)
+  - [x] 13: Block and File Storage (EBS/EFS vs Block Volume/File Storage)
 - [ ] **Phase 4**: Modules 14–17 (`feat: add cloud data and messaging`)
   - 14: Managed Databases (RDS/Aurora vs Base DB/Autonomous DB)
   - 15: NoSQL and Distributed Data (DynamoDB vs OCI NoSQL)
