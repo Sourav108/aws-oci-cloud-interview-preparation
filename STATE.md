@@ -9,7 +9,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 ## Current Status
 
 - **Last completed phase**: Phase 1 — Modules 1–3 (`feat: add cloud foundations`)
-- **Last commit hash/message**: Pending commit (`feat: add cloud foundations`)
+- **Last commit hash/message**: f486457 (`feat: add cloud foundations`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
