@@ -9,7 +9,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 ## Current Status
 
 - **Last completed phase**: Phase 2 — Modules 4–7 (`feat: add cloud networking`)
-- **Last commit hash/message**: Pending commit (`feat: add cloud networking`)
+- **Last commit hash/message**: a076925 (`feat: add cloud networking`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
