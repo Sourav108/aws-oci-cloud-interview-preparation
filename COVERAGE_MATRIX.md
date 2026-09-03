@@ -13,10 +13,10 @@ A comprehensive tracking matrix mapping every module and core cloud architectura
 | **01. Cloud Foundations & Shared Responsibility** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **02. Regions, AZs, ADs & Fault Domains** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **03. Networking Fundamentals & Packet Flow** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
-| **04. VPC & Virtual Cloud Network (VCN)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **05. Subnets, Route Tables & Cloud Gateways** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **06. DNS, Route 53 & Service Discovery** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **07. Load Balancing (ALB/NLB vs OCI LB/NLB)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **04. VPC & Virtual Cloud Network (VCN)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **05. Subnets, Route Tables & Cloud Gateways** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **06. DNS, Route 53 & Service Discovery** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **07. Load Balancing (ALB/NLB vs OCI LB/NLB)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **08. Compute & VMs (EC2 vs OCI Compute Shapes)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **09. Containers (ECS/ECR vs Container Instances)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **10. Kubernetes (EKS vs OCI OKE)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

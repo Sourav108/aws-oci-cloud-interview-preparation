@@ -8,16 +8,20 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: Phase 1 — Modules 1–3 (`feat: add cloud foundations`)
-- **Last commit hash/message**: f486457 (`feat: add cloud foundations`)
+- **Last completed phase**: Phase 2 — Modules 4–7 (`feat: add cloud networking`)
+- **Last commit hash/message**: Pending commit (`feat: add cloud networking`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
   - Module 03: Networking Fundamentals & Packet Flow (3 lessons + README)
+  - Module 04: VPC & Virtual Cloud Network (VCN) (3 lessons + README)
+  - Module 05: Subnets, Routing & Cloud Gateways (3 lessons + README)
+  - Module 06: DNS & Service Discovery (3 lessons + README)
+  - Module 07: Load Balancing & Traffic Ingress (3 lessons + README)
 - **Modules in progress**: none
 - **Module 29 sub-phase reached**: none
 - **Known gaps / deferred items**: none
-- **Next action**: Phase 2 — Modules 4–7 (`feat: add cloud networking`)
+- **Next action**: Phase 3 — Modules 8–13 (`feat: add cloud compute and storage`)
 
 ---
 
@@ -25,8 +29,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 | Dimension | Completed | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Numbered Modules (01–30)** | 3 | 30 | Modules 01–03 Complete |
-| **AWS & OCI Bilingual Coverage** | 3 | 30 Modules | Modules 01–03 Bilingual Complete |
+| **Numbered Modules (01–30)** | 7 | 30 | Modules 01–07 Complete |
+| **AWS & OCI Bilingual Coverage** | 7 | 30 Modules | Modules 01–07 Bilingual Complete |
 | **Module 29 Interview Questions** | 0 | 500 Questions | Pending Phase 9 (Sub-phases 29.1–29.5) |
 | **Production Runbooks** | 0 | 16 Scenarios | Initialized in `PRODUCTION_RUNBOOKS.md` |
 | **Hands-On Labs** | 0 | 10 Labs | Cataloged in `LABS.md` |
@@ -41,11 +45,11 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - [x] 01: Cloud Foundations
   - [x] 02: Regions, AZs and Global Infrastructure
   - [x] 03: Networking Fundamentals
-- [ ] **Phase 2**: Modules 04–07 (`feat: add cloud networking`)
-  - 04: VPC and Virtual Cloud Network
-  - 05: Subnets, Routing and Gateways
-  - 06: DNS and Service Discovery
-  - 07: Load Balancing
+- [x] **Phase 2**: Modules 04–07 (`feat: add cloud networking`)
+  - [x] 04: VPC and Virtual Cloud Network
+  - [x] 05: Subnets, Routing and Gateways
+  - [x] 06: DNS and Service Discovery
+  - [x] 07: Load Balancing
 - [ ] **Phase 3**: Modules 08–13 (`feat: add cloud compute and storage`)
   - 08: Compute and Virtual Machines
   - 09: Containers
