@@ -8,8 +8,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: none
-- **Last commit hash/message**: none
+- **Last completed phase**: Phase 0 — Repository Initialization (§30)
+- **Last commit hash/message**: 4825aa3 (`chore: initialize AWS OCI cloud interview curriculum`)
 - **Modules fully complete**: none
 - **Modules in progress**: none
 - **Module 29 sub-phase reached**: none
@@ -33,7 +33,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Phase Execution Plan & Checklist
 
-- [ ] **Phase 0**: Repository Initialization (§30) (`chore: initialize AWS OCI cloud interview curriculum`)
+- [x] **Phase 0**: Repository Initialization (§30) (`chore: initialize AWS OCI cloud interview curriculum`)
 - [ ] **Phase 1**: Modules 01–03 (`feat: add cloud foundations`)
   - 01: Cloud Foundations
   - 02: Regions, AZs and Global Infrastructure
