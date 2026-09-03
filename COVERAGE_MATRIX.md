@@ -10,9 +10,9 @@ A comprehensive tracking matrix mapping every module and core cloud architectura
 
 | Module & Core Architectural Domain | AWS | OCI | Arch | Lab | Sec | Rel | Obs | Cost | Debug | Questions | Project |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **01. Cloud Foundations & Shared Responsibility** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **02. Regions, AZs, ADs & Fault Domains** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **03. Networking Fundamentals & Packet Flow** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **01. Cloud Foundations & Shared Responsibility** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **02. Regions, AZs, ADs & Fault Domains** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **03. Networking Fundamentals & Packet Flow** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **04. VPC & Virtual Cloud Network (VCN)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **05. Subnets, Route Tables & Cloud Gateways** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **06. DNS, Route 53 & Service Discovery** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
