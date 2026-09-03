@@ -9,7 +9,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 ## Current Status
 
 - **Last completed phase**: Phase 3 — Modules 8–13 (`feat: add cloud compute and storage`)
-- **Last commit hash/message**: Pending commit (`feat: add cloud compute and storage`)
+- **Last commit hash/message**: 05f492f (`feat: add cloud compute and storage`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
