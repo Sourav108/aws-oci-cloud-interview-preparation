@@ -30,9 +30,9 @@ A comprehensive tracking matrix mapping every module and core cloud architectura
 | **18. IAM, Compartments & Workload Identity** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **19. Secrets, KMS & Key Management** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **20. Observability, Metrics, Logs & APM** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
-| **21. Autoscaling, Throttling & Capacity** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **22. High Availability, DR, RPO & RTO** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **23. Resilience, Fault Tolerance & Chaos** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **21. Autoscaling, Throttling & Capacity** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **22. High Availability, DR, RPO & RTO** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **23. Resilience, Fault Tolerance & Chaos** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **24. Cloud Migrations (The 5/6 R's Framework)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **25. Infrastructure as Code (Terraform)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **26. CI/CD & Production Deployment Pipelines** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

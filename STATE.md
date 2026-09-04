@@ -8,8 +8,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: Phase 5 — Modules 18–20 (`feat: add cloud security and observability`)
-- **Last commit hash/message**: 45d0733 (`feat: add cloud security and observability`)
+- **Last completed phase**: Phase 6 — Modules 21–23 (`feat: add scaling and reliability`)
+- **Last commit hash/message**: pending (`feat: add scaling and reliability`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
@@ -31,10 +31,13 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - Module 18: IAM, Compartments & Workload Identity (3 lessons + README)
   - Module 19: Secrets, KMS & Key Management (3 lessons + README)
   - Module 20: Observability, Metrics, Logs & APM (3 lessons + README)
+  - Module 21: Autoscaling, Throttling & Capacity (3 lessons + README)
+  - Module 22: High Availability, DR, RPO & RTO (3 lessons + README)
+  - Module 23: Resilience, Fault Tolerance & Chaos (3 lessons + README)
 - **Modules in progress**: none
 - **Module 29 sub-phase reached**: none
 - **Known gaps / deferred items**: none
-- **Next action**: Phase 6 — Modules 21–23 (`feat: add scaling and reliability`)
+- **Next action**: Phase 7 — Modules 24–26 (`feat: add migration, iac, cicd`)
 
 ---
 
@@ -42,8 +45,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 | Dimension | Completed | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Numbered Modules (01–30)** | 20 | 30 | Modules 01–20 Complete |
-| **AWS & OCI Bilingual Coverage** | 20 | 30 Modules | Modules 01–20 Bilingual Complete |
+| **Numbered Modules (01–30)** | 23 | 30 | Modules 01–23 Complete |
+| **AWS & OCI Bilingual Coverage** | 23 | 30 Modules | Modules 01–23 Bilingual Complete |
 | **Module 29 Interview Questions** | 0 | 500 Questions | Pending Phase 9 (Sub-phases 29.1–29.5) |
 | **Production Runbooks** | 0 | 16 Scenarios | Initialized in `PRODUCTION_RUNBOOKS.md` |
 | **Hands-On Labs** | 0 | 10 Labs | Cataloged in `LABS.md` |
@@ -79,10 +82,10 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - [x] 18: IAM and Cloud Security
   - [x] 19: Secrets, Encryption and Key Management
   - [x] 20: Observability, Monitoring and Logging
-- [ ] **Phase 6**: Modules 21–23 (`feat: add scaling and reliability`)
-  - 21: Autoscaling and Capacity
-  - 22: High Availability and Disaster Recovery
-  - 23: Resilience and Fault Tolerance
+- [x] **Phase 6**: Modules 21–23 (`feat: add scaling and reliability`)
+  - [x] 21: Autoscaling and Capacity
+  - [x] 22: High Availability and Disaster Recovery
+  - [x] 23: Resilience and Fault Tolerance
 - [ ] **Phase 7**: Modules 24–26 (`feat: add migration, iac, cicd`)
   - 24: Cloud Migrations
   - 25: Infrastructure as Code (Terraform)
