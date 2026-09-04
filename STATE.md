@@ -9,7 +9,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 ## Current Status
 
 - **Last completed phase**: Phase 5 — Modules 18–20 (`feat: add cloud security and observability`)
-- **Last commit hash/message**: Pending commit (`feat: add cloud security and observability`)
+- **Last commit hash/message**: 45d0733 (`feat: add cloud security and observability`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
