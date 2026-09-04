@@ -9,7 +9,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 ## Current Status
 
 - **Last completed phase**: Phase 7 — Modules 24–26 (`feat: add migration iac and deployment pipelines`)
-- **Last commit hash/message**: pending (`feat: add migration iac and deployment pipelines`)
+- **Last commit hash/message**: 0c8f0d8 (`feat: add migration iac and deployment pipelines`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
