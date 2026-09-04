@@ -9,7 +9,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 ## Current Status
 
 - **Last completed phase**: Phase 9: Sub-phase 29.1 — Fundamentals, AWS Core, OCI Core, Networking, Compute (`feat: add interview questions foundations networking compute`)
-- **Last commit hash/message**: pending commit (`feat: add interview questions foundations networking compute`)
+- **Last commit hash/message**: 8a29fc4 (`feat: add interview questions foundations networking compute`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
