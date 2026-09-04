@@ -23,10 +23,10 @@ A comprehensive tracking matrix mapping every module and core cloud architectura
 | **11. Serverless (Lambda vs OCI Functions)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **12. Object Storage (S3 vs OCI Object Storage)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **13. Block & File Storage (EBS/EFS vs BV/FSS)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
-| **14. Managed SQL (RDS/Aurora vs Base/Autonomous)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **15. NoSQL & Distributed Data (DynamoDB vs NoSQL)**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **16. Caching (ElastiCache vs OCI Cache Redis)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **17. Messaging & Eventing (SQS/SNS vs Queue/Stream)**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **14. Managed SQL (RDS/Aurora vs Base/Autonomous)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **15. NoSQL & Distributed Data (DynamoDB vs NoSQL)**| [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **16. Caching (ElastiCache vs OCI Cache Redis)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **17. Messaging & Eventing (SQS/SNS vs Queue/Stream)**| [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **18. IAM, Compartments & Workload Identity** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **19. Secrets, KMS & Key Management** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **20. Observability, Metrics, Logs & APM** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

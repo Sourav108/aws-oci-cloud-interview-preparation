@@ -8,8 +8,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: Phase 3 — Modules 8–13 (`feat: add cloud compute and storage`)
-- **Last commit hash/message**: 05f492f (`feat: add cloud compute and storage`)
+- **Last completed phase**: Phase 4 — Modules 14–17 (`feat: add cloud data and messaging`)
+- **Last commit hash/message**: Pending commit (`feat: add cloud data and messaging`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
@@ -24,10 +24,14 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - Module 11: Serverless (AWS Lambda vs OCI Functions) (3 lessons + README)
   - Module 12: Object Storage (S3 vs OCI Object Storage) (3 lessons + README)
   - Module 13: Block & File Storage (EBS/EFS vs BV/FSS) (3 lessons + README)
+  - Module 14: Managed Databases (RDS/Aurora vs Base DB/Autonomous DB) (3 lessons + README)
+  - Module 15: NoSQL & Distributed Data (DynamoDB vs OCI NoSQL) (3 lessons + README)
+  - Module 16: Caching (ElastiCache vs OCI Cache with Redis) (3 lessons + README)
+  - Module 17: Messaging & Eventing (SQS/SNS/EventBridge vs Queue/Notifications/Streaming) (3 lessons + README)
 - **Modules in progress**: none
 - **Module 29 sub-phase reached**: none
 - **Known gaps / deferred items**: none
-- **Next action**: Phase 4 — Modules 14–17 (`feat: add cloud data and messaging`)
+- **Next action**: Phase 5 — Modules 18–20 (`feat: add cloud security and observability`)
 
 ---
 
@@ -35,8 +39,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 | Dimension | Completed | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Numbered Modules (01–30)** | 13 | 30 | Modules 01–13 Complete |
-| **AWS & OCI Bilingual Coverage** | 13 | 30 Modules | Modules 01–13 Bilingual Complete |
+| **Numbered Modules (01–30)** | 17 | 30 | Modules 01–17 Complete |
+| **AWS & OCI Bilingual Coverage** | 17 | 30 Modules | Modules 01–17 Bilingual Complete |
 | **Module 29 Interview Questions** | 0 | 500 Questions | Pending Phase 9 (Sub-phases 29.1–29.5) |
 | **Production Runbooks** | 0 | 16 Scenarios | Initialized in `PRODUCTION_RUNBOOKS.md` |
 | **Hands-On Labs** | 0 | 10 Labs | Cataloged in `LABS.md` |
@@ -63,11 +67,11 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - [x] 11: Serverless (Lambda vs Functions)
   - [x] 12: Object Storage (S3 vs OCI Object Storage)
   - [x] 13: Block and File Storage (EBS/EFS vs Block Volume/File Storage)
-- [ ] **Phase 4**: Modules 14–17 (`feat: add cloud data and messaging`)
-  - 14: Managed Databases (RDS/Aurora vs Base DB/Autonomous DB)
-  - 15: NoSQL and Distributed Data (DynamoDB vs OCI NoSQL)
-  - 16: Caching (ElastiCache vs OCI Cache)
-  - 17: Messaging and Eventing (SQS/SNS/EventBridge vs Queue/Notifications/Streaming)
+- [x] **Phase 4**: Modules 14–17 (`feat: add cloud data and messaging`)
+  - [x] 14: Managed Databases (RDS/Aurora vs Base DB/Autonomous DB)
+  - [x] 15: NoSQL and Distributed Data (DynamoDB vs OCI NoSQL)
+  - [x] 16: Caching (ElastiCache vs OCI Cache)
+  - [x] 17: Messaging and Eventing (SQS/SNS/EventBridge vs Queue/Notifications/Streaming)
 - [ ] **Phase 5**: Modules 18–20 (`feat: add cloud security and observability`)
   - 18: IAM and Cloud Security
   - 19: Secrets, Encryption and Key Management
