@@ -33,9 +33,9 @@ A comprehensive tracking matrix mapping every module and core cloud architectura
 | **21. Autoscaling, Throttling & Capacity** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **22. High Availability, DR, RPO & RTO** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **23. Resilience, Fault Tolerance & Chaos** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
-| **24. Cloud Migrations (The 5/6 R's Framework)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **25. Infrastructure as Code (Terraform)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **26. CI/CD & Production Deployment Pipelines** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **24. Cloud Migrations (The 5/6 R's Framework)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **25. Infrastructure as Code (Terraform)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **26. CI/CD & Production Deployment Pipelines** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **27. Cloud Performance Optimization** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **28. Cloud Cost Optimization & Unit Economics**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **29. 500 Cloud Interview Questions (Sub-phased)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

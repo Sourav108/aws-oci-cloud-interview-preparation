@@ -8,8 +8,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: Phase 6 — Modules 21–23 (`feat: add scaling and reliability`)
-- **Last commit hash/message**: f499b0d (`feat: add scaling and reliability`)
+- **Last completed phase**: Phase 7 — Modules 24–26 (`feat: add migration iac and deployment pipelines`)
+- **Last commit hash/message**: pending (`feat: add migration iac and deployment pipelines`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
@@ -34,10 +34,13 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - Module 21: Autoscaling, Throttling & Capacity (3 lessons + README)
   - Module 22: High Availability, DR, RPO & RTO (3 lessons + README)
   - Module 23: Resilience, Fault Tolerance & Chaos (3 lessons + README)
+  - Module 24: Cloud Migrations (The 5/6 R's Framework) (3 lessons + README)
+  - Module 25: Infrastructure as Code (Terraform) (3 lessons + README)
+  - Module 26: CI/CD & Production Deployment Pipelines (3 lessons + README)
 - **Modules in progress**: none
 - **Module 29 sub-phase reached**: none
 - **Known gaps / deferred items**: none
-- **Next action**: Phase 7 — Modules 24–26 (`feat: add migration, iac, cicd`)
+- **Next action**: Phase 8 — Modules 27–28 (`feat: add cloud optimization`)
 
 ---
 
@@ -45,8 +48,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 | Dimension | Completed | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Numbered Modules (01–30)** | 23 | 30 | Modules 01–23 Complete |
-| **AWS & OCI Bilingual Coverage** | 23 | 30 Modules | Modules 01–23 Bilingual Complete |
+| **Numbered Modules (01–30)** | 26 | 30 | Modules 01–26 Complete |
+| **AWS & OCI Bilingual Coverage** | 26 | 30 Modules | Modules 01–26 Bilingual Complete |
 | **Module 29 Interview Questions** | 0 | 500 Questions | Pending Phase 9 (Sub-phases 29.1–29.5) |
 | **Production Runbooks** | 0 | 16 Scenarios | Initialized in `PRODUCTION_RUNBOOKS.md` |
 | **Hands-On Labs** | 0 | 10 Labs | Cataloged in `LABS.md` |
@@ -86,10 +89,10 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - [x] 21: Autoscaling and Capacity
   - [x] 22: High Availability and Disaster Recovery
   - [x] 23: Resilience and Fault Tolerance
-- [ ] **Phase 7**: Modules 24–26 (`feat: add migration, iac, cicd`)
-  - 24: Cloud Migrations
-  - 25: Infrastructure as Code (Terraform)
-  - 26: CI/CD and Cloud Deployments
+- [x] **Phase 7**: Modules 24–26 (`feat: add migration, iac, cicd`)
+  - [x] 24: Cloud Migrations
+  - [x] 25: Infrastructure as Code (Terraform)
+  - [x] 26: CI/CD and Cloud Deployments
 - [ ] **Phase 8**: Modules 27–28 (`feat: add cloud optimization`)
   - 27: Cloud Performance Optimization
   - 28: Cloud Cost Optimization
