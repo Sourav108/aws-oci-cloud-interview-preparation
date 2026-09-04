@@ -9,7 +9,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 ## Current Status
 
 - **Last completed phase**: Phase 4 — Modules 14–17 (`feat: add cloud data and messaging`)
-- **Last commit hash/message**: Pending commit (`feat: add cloud data and messaging`)
+- **Last commit hash/message**: ea49b04 (`feat: add cloud data and messaging`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
