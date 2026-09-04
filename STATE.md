@@ -9,7 +9,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 ## Current Status
 
 - **Last completed phase**: Phase 8 — Modules 27–28 (`feat: add cloud optimization and cost engineering`)
-- **Last commit hash/message**: f1ce7dd (`feat: add cloud optimization and cost engineering`)
+- **Last commit hash/message**: 68a441d (`feat: add cloud optimization and cost engineering`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
