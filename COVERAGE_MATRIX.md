@@ -38,7 +38,7 @@ A comprehensive tracking matrix mapping every module and core cloud architectura
 | **26. CI/CD & Production Deployment Pipelines** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **27. Cloud Performance Optimization** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **28. Cloud Cost Optimization & Unit Economics**| [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
-| **29. 500 Cloud Interview Questions (Sub-phased)** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **29. 500 Cloud Interview Questions (Sub-phased)** | [x] | [x] | [x] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [x] | [ ] |
 | **30. Cloud System Design & Reference Architectures**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 ---

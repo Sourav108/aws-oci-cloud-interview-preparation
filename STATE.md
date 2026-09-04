@@ -8,8 +8,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: Phase 8 — Modules 27–28 (`feat: add cloud optimization and cost engineering`)
-- **Last commit hash/message**: 68a441d (`feat: add cloud optimization and cost engineering`)
+- **Last completed phase**: Phase 9: Sub-phase 29.1 — Fundamentals, AWS Core, OCI Core, Networking, Compute (`feat: add interview questions foundations networking compute`)
+- **Last commit hash/message**: pending commit (`feat: add interview questions foundations networking compute`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
@@ -39,10 +39,10 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - Module 26: CI/CD & Production Deployment Pipelines (3 lessons + README)
   - Module 27: Cloud Performance Optimization (3 lessons + README)
   - Module 28: Cloud Cost Optimization & Unit Economics (3 lessons + README)
-- **Modules in progress**: none
-- **Module 29 sub-phase reached**: none
+- **Modules in progress**: Module 29 (Sub-phases 29.2–29.5)
+- **Module 29 sub-phase reached**: Sub-phase 29.1 (125 / 500 questions)
 - **Known gaps / deferred items**: none
-- **Next action**: Phase 9 — Module 29 Sub-Phases (500 Questions)
+- **Next action**: Phase 9: Sub-phase 29.2 — Storage, Databases, Caching, Messaging, Kubernetes (Q126–Q250)
 
 ---
 
@@ -50,9 +50,9 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 | Dimension | Completed | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Numbered Modules (01–30)** | 28 | 30 | Modules 01–28 Complete |
-| **AWS & OCI Bilingual Coverage** | 28 | 30 Modules | Modules 01–28 Bilingual Complete |
-| **Module 29 Interview Questions** | 0 | 500 Questions | Pending Phase 9 (Sub-phases 29.1–29.5) |
+| **Numbered Modules (01–30)** | 28 | 30 | Modules 01–28 Complete, Module 29 in progress |
+| **AWS & OCI Bilingual Coverage** | 28 | 30 Modules | Modules 01–28 Complete, Module 29 in progress |
+| **Module 29 Interview Questions** | 125 | 500 Questions | Sub-phase 29.1 Complete (125/500 Qs) |
 | **Production Runbooks** | 0 | 16 Scenarios | Initialized in `PRODUCTION_RUNBOOKS.md` |
 | **Hands-On Labs** | 0 | 10 Labs | Cataloged in `LABS.md` |
 | **Cloud System Design Projects** | 0 | 8 Projects | Pending Phase 10 |
@@ -99,7 +99,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - [x] 27: Cloud Performance Optimization
   - [x] 28: Cloud Cost Optimization
 - [ ] **Phase 9**: Module 29 Sub-Phases (500 Questions)
-  - [ ] **Sub-phase 29.1**: Fundamentals, AWS Core, OCI Core, Networking, Compute (125 Qs) (`feat: add interview questions foundations networking compute`)
+  - [x] **Sub-phase 29.1**: Fundamentals, AWS Core, OCI Core, Networking, Compute (125 Qs) (`feat: add interview questions foundations networking compute`)
   - [ ] **Sub-phase 29.2**: Storage, Databases, Caching, Messaging, Kubernetes (125 Qs / Total: 250) (`feat: add interview questions storage data messaging k8s`)
   - [ ] **Sub-phase 29.3**: Serverless, IAM, Security, Observability, Autoscaling (125 Qs / Total: 375) (`feat: add interview questions serverless security observability`)
   - [ ] **Sub-phase 29.4**: HA, DR, Resilience, Terraform, CI/CD (100 Qs / Total: 475) (`feat: add interview questions ha dr iac cicd`)
