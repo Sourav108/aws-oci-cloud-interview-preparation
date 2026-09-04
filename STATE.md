@@ -8,8 +8,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: Phase 7 — Modules 24–26 (`feat: add migration iac and deployment pipelines`)
-- **Last commit hash/message**: 0c8f0d8 (`feat: add migration iac and deployment pipelines`)
+- **Last completed phase**: Phase 8 — Modules 27–28 (`feat: add cloud optimization and cost engineering`)
+- **Last commit hash/message**: f1ce7dd (`feat: add cloud optimization and cost engineering`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
@@ -37,10 +37,12 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - Module 24: Cloud Migrations (The 5/6 R's Framework) (3 lessons + README)
   - Module 25: Infrastructure as Code (Terraform) (3 lessons + README)
   - Module 26: CI/CD & Production Deployment Pipelines (3 lessons + README)
+  - Module 27: Cloud Performance Optimization (3 lessons + README)
+  - Module 28: Cloud Cost Optimization & Unit Economics (3 lessons + README)
 - **Modules in progress**: none
 - **Module 29 sub-phase reached**: none
 - **Known gaps / deferred items**: none
-- **Next action**: Phase 8 — Modules 27–28 (`feat: add cloud optimization`)
+- **Next action**: Phase 9 — Module 29 Sub-Phases (500 Questions)
 
 ---
 
@@ -48,8 +50,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 | Dimension | Completed | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Numbered Modules (01–30)** | 26 | 30 | Modules 01–26 Complete |
-| **AWS & OCI Bilingual Coverage** | 26 | 30 Modules | Modules 01–26 Bilingual Complete |
+| **Numbered Modules (01–30)** | 28 | 30 | Modules 01–28 Complete |
+| **AWS & OCI Bilingual Coverage** | 28 | 30 Modules | Modules 01–28 Bilingual Complete |
 | **Module 29 Interview Questions** | 0 | 500 Questions | Pending Phase 9 (Sub-phases 29.1–29.5) |
 | **Production Runbooks** | 0 | 16 Scenarios | Initialized in `PRODUCTION_RUNBOOKS.md` |
 | **Hands-On Labs** | 0 | 10 Labs | Cataloged in `LABS.md` |
@@ -93,9 +95,9 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - [x] 24: Cloud Migrations
   - [x] 25: Infrastructure as Code (Terraform)
   - [x] 26: CI/CD and Cloud Deployments
-- [ ] **Phase 8**: Modules 27–28 (`feat: add cloud optimization`)
-  - 27: Cloud Performance Optimization
-  - 28: Cloud Cost Optimization
+- [x] **Phase 8**: Modules 27–28 (`feat: add cloud optimization`)
+  - [x] 27: Cloud Performance Optimization
+  - [x] 28: Cloud Cost Optimization
 - [ ] **Phase 9**: Module 29 Sub-Phases (500 Questions)
   - [ ] **Sub-phase 29.1**: Fundamentals, AWS Core, OCI Core, Networking, Compute (125 Qs) (`feat: add interview questions foundations networking compute`)
   - [ ] **Sub-phase 29.2**: Storage, Databases, Caching, Messaging, Kubernetes (125 Qs / Total: 250) (`feat: add interview questions storage data messaging k8s`)
