@@ -9,7 +9,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 ## Current Status
 
 - **Last completed phase**: Phase 6 — Modules 21–23 (`feat: add scaling and reliability`)
-- **Last commit hash/message**: pending (`feat: add scaling and reliability`)
+- **Last commit hash/message**: f499b0d (`feat: add scaling and reliability`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
