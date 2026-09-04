@@ -8,8 +8,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: Phase 4 — Modules 14–17 (`feat: add cloud data and messaging`)
-- **Last commit hash/message**: ea49b04 (`feat: add cloud data and messaging`)
+- **Last completed phase**: Phase 5 — Modules 18–20 (`feat: add cloud security and observability`)
+- **Last commit hash/message**: Pending commit (`feat: add cloud security and observability`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
@@ -28,10 +28,13 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - Module 15: NoSQL & Distributed Data (DynamoDB vs OCI NoSQL) (3 lessons + README)
   - Module 16: Caching (ElastiCache vs OCI Cache with Redis) (3 lessons + README)
   - Module 17: Messaging & Eventing (SQS/SNS/EventBridge vs Queue/Notifications/Streaming) (3 lessons + README)
+  - Module 18: IAM, Compartments & Workload Identity (3 lessons + README)
+  - Module 19: Secrets, KMS & Key Management (3 lessons + README)
+  - Module 20: Observability, Metrics, Logs & APM (3 lessons + README)
 - **Modules in progress**: none
 - **Module 29 sub-phase reached**: none
 - **Known gaps / deferred items**: none
-- **Next action**: Phase 5 — Modules 18–20 (`feat: add cloud security and observability`)
+- **Next action**: Phase 6 — Modules 21–23 (`feat: add scaling and reliability`)
 
 ---
 
@@ -39,8 +42,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 | Dimension | Completed | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Numbered Modules (01–30)** | 17 | 30 | Modules 01–17 Complete |
-| **AWS & OCI Bilingual Coverage** | 17 | 30 Modules | Modules 01–17 Bilingual Complete |
+| **Numbered Modules (01–30)** | 20 | 30 | Modules 01–20 Complete |
+| **AWS & OCI Bilingual Coverage** | 20 | 30 Modules | Modules 01–20 Bilingual Complete |
 | **Module 29 Interview Questions** | 0 | 500 Questions | Pending Phase 9 (Sub-phases 29.1–29.5) |
 | **Production Runbooks** | 0 | 16 Scenarios | Initialized in `PRODUCTION_RUNBOOKS.md` |
 | **Hands-On Labs** | 0 | 10 Labs | Cataloged in `LABS.md` |
@@ -72,10 +75,10 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - [x] 15: NoSQL and Distributed Data (DynamoDB vs OCI NoSQL)
   - [x] 16: Caching (ElastiCache vs OCI Cache)
   - [x] 17: Messaging and Eventing (SQS/SNS/EventBridge vs Queue/Notifications/Streaming)
-- [ ] **Phase 5**: Modules 18–20 (`feat: add cloud security and observability`)
-  - 18: IAM and Cloud Security
-  - 19: Secrets, Encryption and Key Management
-  - 20: Observability, Monitoring and Logging
+- [x] **Phase 5**: Modules 18–20 (`feat: add cloud security and observability`)
+  - [x] 18: IAM and Cloud Security
+  - [x] 19: Secrets, Encryption and Key Management
+  - [x] 20: Observability, Monitoring and Logging
 - [ ] **Phase 6**: Modules 21–23 (`feat: add scaling and reliability`)
   - 21: Autoscaling and Capacity
   - 22: High Availability and Disaster Recovery

@@ -27,9 +27,9 @@ A comprehensive tracking matrix mapping every module and core cloud architectura
 | **15. NoSQL & Distributed Data (DynamoDB vs NoSQL)**| [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **16. Caching (ElastiCache vs OCI Cache Redis)** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **17. Messaging & Eventing (SQS/SNS vs Queue/Stream)**| [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
-| **18. IAM, Compartments & Workload Identity** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **19. Secrets, KMS & Key Management** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **20. Observability, Metrics, Logs & APM** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **18. IAM, Compartments & Workload Identity** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **19. Secrets, KMS & Key Management** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
+| **20. Observability, Metrics, Logs & APM** | [x] | [x] | [x] | [ ] | [x] | [x] | [x] | [x] | [x] | [x] | [ ] |
 | **21. Autoscaling, Throttling & Capacity** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **22. High Availability, DR, RPO & RTO** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **23. Resilience, Fault Tolerance & Chaos** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
