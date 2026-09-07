@@ -8,8 +8,8 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 
 ## Current Status
 
-- **Last completed phase**: Phase 9: Sub-phase 29.2 — Storage, Databases, Caching, Messaging, Kubernetes (`feat: add interview questions storage data messaging k8s`)
-- **Last commit hash/message**: 8717784 (`feat: add interview questions storage data messaging k8s`)
+- **Last completed phase**: Phase 9: Sub-phase 29.3 — Serverless, IAM, Security, Observability, Autoscaling (`feat: add interview questions serverless security observability`)
+- **Last commit hash/message**: f0d289a (`feat: add interview questions serverless security observability`)
 - **Modules fully complete**:
   - Module 01: Cloud Foundations & Shared Responsibility (3 lessons + README)
   - Module 02: Regions, AZs, ADs & Global Infrastructure (3 lessons + README)
@@ -39,10 +39,10 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
   - Module 26: CI/CD & Production Deployment Pipelines (3 lessons + README)
   - Module 27: Cloud Performance Optimization (3 lessons + README)
   - Module 28: Cloud Cost Optimization & Unit Economics (3 lessons + README)
-- **Modules in progress**: Module 29 (Sub-phases 29.3–29.5)
-- **Module 29 sub-phase reached**: Sub-phase 29.2 (250 / 500 questions)
+- **Modules in progress**: Module 29 (Sub-phases 29.4–29.5)
+- **Module 29 sub-phase reached**: Sub-phase 29.3 (375 / 500 questions)
 - **Known gaps / deferred items**: none
-- **Next action**: Phase 9: Sub-phase 29.3 — Serverless, IAM, Security, Observability, Autoscaling (Q251–Q375)
+- **Next action**: Phase 9: Sub-phase 29.4 — HA, DR, Resilience, Terraform, CI/CD (Q376–Q475)
 
 ---
 
@@ -52,7 +52,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 | :--- | :---: | :---: | :--- |
 | **Numbered Modules (01–30)** | 28 | 30 | Modules 01–28 Complete, Module 29 in progress |
 | **AWS & OCI Bilingual Coverage** | 28 | 30 Modules | Modules 01–28 Complete, Module 29 in progress |
-| **Module 29 Interview Questions** | 250 | 500 Questions | Sub-phases 29.1–29.2 Complete (250/500 Qs) |
+| **Module 29 Interview Questions** | 375 | 500 Questions | Sub-phases 29.1–29.3 Complete (375/500 Qs) |
 | **Production Runbooks** | 0 | 16 Scenarios | Initialized in `PRODUCTION_RUNBOOKS.md` |
 | **Hands-On Labs** | 0 | 10 Labs | Cataloged in `LABS.md` |
 | **Cloud System Design Projects** | 0 | 8 Projects | Pending Phase 10 |
@@ -101,7 +101,7 @@ Before initiating any work in a session, read this file and `COVERAGE_MATRIX.md`
 - [ ] **Phase 9**: Module 29 Sub-Phases (500 Questions)
   - [x] **Sub-phase 29.1**: Fundamentals, AWS Core, OCI Core, Networking, Compute (125 Qs) (`feat: add interview questions foundations networking compute`)
   - [x] **Sub-phase 29.2**: Storage, Databases, Caching, Messaging, Kubernetes (125 Qs / Total: 250) (`feat: add interview questions storage data messaging k8s`)
-  - [ ] **Sub-phase 29.3**: Serverless, IAM, Security, Observability, Autoscaling (125 Qs / Total: 375) (`feat: add interview questions serverless security observability`)
+  - [x] **Sub-phase 29.3**: Serverless, IAM, Security, Observability, Autoscaling (125 Qs / Total: 375) (`feat: add interview questions serverless security observability`)
   - [ ] **Sub-phase 29.4**: HA, DR, Resilience, Terraform, CI/CD (100 Qs / Total: 475) (`feat: add interview questions ha dr iac cicd`)
   - [ ] **Sub-phase 29.5**: Performance, Cost, Troubleshooting, Architecture (25 Qs / Total: 500) (`feat: add interview questions performance cost architecture`)
 - [ ] **Phase 10**: Module 30 + Projects (`feat: add cloud system design and projects`)
